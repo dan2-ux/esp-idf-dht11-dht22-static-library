@@ -7,6 +7,8 @@ Both sensors provide temperature and relative humidity data and are commonly use
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/64293a98-953e-4d7e-b100-586ffc03facf" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6dfd86c0-0ae3-425e-8039-1ad9d922fe6b" />
 
+## What problem does this solve?
+Ready to use components only require developers to define pin.
 
 ## Sensor Overview
 - DHT11 is suitable for basic applications
