@@ -1,4 +1,7 @@
-# DHT11 & DHT22 Temperature and Humidity Sensor
+# Welcome to DHT11 and DHT22 repository
+This is a ready-to-use component with a clean API that only requires developers to define the pins. It is designed for the ESP32 to work with the temperature sensor, allowing developers to focus on integrating the features provided by the DHT11 and DHT22 into their own projects.
+
+## DHT11 & DHT22 Temperature and Humidity Sensor
 
 This repository demonstrates how to interface DHT11 and DHT22 temperature and humidity sensors using a single-wire digital protocol.
 
@@ -6,9 +9,6 @@ Both sensors provide temperature and relative humidity data and are commonly use
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/64293a98-953e-4d7e-b100-586ffc03facf" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6dfd86c0-0ae3-425e-8039-1ad9d922fe6b" />
-
-## What problem does this solve?
-Ready to use components and clean API only require developers to define pin.
 
 ## Sensor Overview
 - DHT11 is suitable for basic applications
